@@ -4,8 +4,8 @@
 
 Este repositório tem como objetivo disponibilizar os conteúdos desenvolvidos na disciplina Tópicos Essenciais em Programação, de modo a auxiliar na organização do material produzido e a promover o compartilhamento com demais turmas.
 
-### Dados básicos:
+### Dados Básicos
 
 * Layson Victor
-* Ciencia da computação
+* Ciência da Computação
 * 2025211880192
