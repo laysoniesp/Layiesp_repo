@@ -7,5 +7,5 @@ Este repositório tem como objetivo disponibilizar os conteúdos desenvolvidos n
 ### Dados Básicos
 
 * Layson Victor
-* Ciência da Computação
+* Ciência da Computação (Tarde)
 * 2025211880192
